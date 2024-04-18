@@ -48,3 +48,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
 </div>
+
+![my-cv-img](https://github.com/hiumx/hiumx/blob/main/images/my-cv.png)
