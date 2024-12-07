@@ -8,6 +8,7 @@
  👨‍💻 All of my projects are available at [https://github.com/hiumx](https://github.com/hiumx)<br>
  💬 Ask me about **Fullstack & DevOps**<br>
  📫 How to reach me **maixuanhieu250103@gmail.com**<br>
+ 🍀 To see more my repositories [https://gitlab.com/hiumx](https://gitlab.com/hiumx)<br>
  🧑‍💻 To see more about me [https://hiumx.online](https://hiumx.online)<br>
  📄 Contact for me with LinkedIn [https://www.linkedin.com/in/hieumaixuan251/](https://www.linkedin.com/in/hieumaixuan251/)<br>
 
